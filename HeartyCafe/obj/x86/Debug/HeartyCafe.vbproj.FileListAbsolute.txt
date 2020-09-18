@@ -1,0 +1,27 @@
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\bin\Debug\HeartyCafe.exe.config
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\bin\Debug\HeartyCafe.exe
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\bin\Debug\HeartyCafe.pdb
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\bin\Debug\HeartyCafe.xml
+\\Hearteacafe\pos\HeartyCafe.exe.config
+\\Hearteacafe\pos\HeartyCafe.exe
+\\Hearteacafe\pos\HeartyCafe.pdb
+\\Hearteacafe\pos\HeartyCafe.xml
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmAdminAuth.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmModProduct.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmLogin.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmNewOrder.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmSales.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.Resources.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmReportViewer.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.vbproj.GenerateResource.Cache
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.exe
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.xml
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.pdb
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmSalesReportDaily.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmSalesReportMonthly.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.frmAbout.resources
+\\Hearteacafe\pos\HeartyCafe.exe.manifest
+\\Hearteacafe\pos\HeartyCafe.application
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.exe.manifest
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.application
+C:\Users\Nezty\OneDrive\Desktop\System Projects\HearTea Samar Inventory POS\HeartyCafe\HeartyCafe\obj\x86\Debug\HeartyCafe.vbprojResolveAssemblyReference.cache
